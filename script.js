@@ -17,5 +17,5 @@ btn.addEventListener("click", function (event) {
     let para = document.getElementById("Msg");
 
     para.innerText = output
-    para.style.color="red"
+    // para.style.color="red"
 })
